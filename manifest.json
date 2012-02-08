@@ -1,0 +1,15 @@
+{
+  "name":"Omniat",
+  "description":"Converts Twitter @addresses to URL's.  Type @ then space then the username.",
+  "version":"1.0",
+  "omnibox":{
+    "keyword":"@"
+  },
+  "icons":{
+    "16":"icons/twitter.png"
+  },
+  "background_page":"background.html",
+  "permissions":[
+    "tabs"
+  ]
+}
