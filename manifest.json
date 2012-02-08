@@ -6,7 +6,9 @@
     "keyword":"@"
   },
   "icons":{
-    "16":"icons/twitter.png"
+    "16":"icons/twitter.png",
+    "48":"icons/at48x48.png",
+    "128":"icons/at128x128.png"
   },
   "background_page":"background.html",
   "permissions":[
